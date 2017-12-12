@@ -148,7 +148,7 @@ main{
 
 
 #cv, #jobs, #ausbildung{
-  float: left;
+  margin: 0 auto;
 }
 
 .cv-eintrag{
@@ -325,7 +325,7 @@ footer{
 
   .links{
     width: 100%;
-    text-algin: center;
+    text-align: center;
   }
 
   .rechts{
